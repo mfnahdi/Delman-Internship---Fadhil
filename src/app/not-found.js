@@ -18,8 +18,7 @@ export default function NotFound() {
       </Text>
       <Text fontSize="md" color="gray.500" mt="3">
         It seems like the page you're trying to access has been moved, deleted,
-        or never existed. You can go back to the homepage or use the navigation
-        menu to find what you're looking for.
+        or never existed. You can go back to the homepage.
       </Text>
       <Center mt="5">
         <Box bg="gray.800" color="white" p="3" borderRadius="md">
